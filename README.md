@@ -1,2 +1,2 @@
-# react-statsapp
+# BulSU-LMS
 Created with CodeSandbox
